@@ -1,5 +1,4 @@
 export const getWehaterIcon = (weatherAbbr: string) => {
-
     switch (weatherAbbr) {
         case 'sn':
             break;
@@ -23,6 +22,4 @@ export const getWehaterIcon = (weatherAbbr: string) => {
             break;
         default:
     }
-
-
 }
